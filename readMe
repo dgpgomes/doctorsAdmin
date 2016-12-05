@@ -1,0 +1,27 @@
+/* Developed by Douglas Gomes */
+December 2015
+
+This is an application for recording information about the patients that
+are making appointments for surgeries. 
+
+This system has three different user account types:
+1. The doctor how can view their appointments
+2. The secretary who can make appointments
+3. The pharmacist who can view prescriptions
+
+Classes included in this project:
+CreateApp.java
+CreatePres.java
+DocView.java
+Login.java
+PharmView.java
+Presc.java
+RecpView.java
+
+Database script
+db.sql
+- needs to be imported
+
+Note: MySQL Port might need to be changed on either the java code or mySql service.
+
+Project has graphic user interface.
